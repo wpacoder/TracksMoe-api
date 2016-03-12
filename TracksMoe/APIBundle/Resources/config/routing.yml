@@ -2,4 +2,4 @@ homepage:
     path:  /
     defaults:
       _controller: FrameworkBundle:Template:template
-      template: 'TracksAPIBundle:Default:index.html.twig'
+      template: 'TracksMoeAPIBundle:Default:index.html.twig'
